@@ -1,9 +1,19 @@
-## Hi there 👋
+## Personal Repo
+
+[![wakatime](https://wakatime.com/badge/user/506b29c1-2b87-45e2-b8c2-38dd85d9a3bb.svg)](https://wakatime.com/@506b29c1-2b87-45e2-b8c2-38dd85d9a3bb)
+
+- I am currently a student on the HDip in Computer science at SETU - Waterford (https://www.setu.ie/courses/higher-diploma-in-computer-science-2-years-online)
+- I have completed the following courses online (see certificates directory)
+    - University of Helsinki - Java Programming 1 (https://java-programming.mooc.fi/)
+    - University of Helsinki - Java Programming 2 (https://java-programming.mooc.fi/)
+    - UDEMY (Python 3: Deep Dive (Part 1 - Functional) https://www.udemy.com/course/python-3-deep-dive-part-1/
+    - UDEMY (Python 3: Deep Dive (Part 2 - Iterators, Generators) https://www.udemy.com/course/python-3-deep-dive-part-2
+    - UDEMY (Python 3: Deep Dive (Part 3 - Dictionaries, Sets, JSON) https://www.udemy.com/course/python-3-deep-dive-part-3
+    - UDEMY (Build a data analysis library from scratch) https://www.udemy.com/course/build-a-data-analysis-library-from-scratch-in-python
+    - DeepLearning.AI/Coursera (Generative Adversarial Networks (GANs) Specialization) https://www.coursera.org/specializations/generative-adversarial-networks-gans
 
 <!--
-**AdamMcCarthyCS/adammccarthycs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+In the future I might add:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
