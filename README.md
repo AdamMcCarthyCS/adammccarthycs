@@ -1,16 +1,38 @@
-## Personal Repo
+# 👋 Hi, I'm Adam McCarthy
 
-[![wakatime](https://wakatime.com/badge/user/506b29c1-2b87-45e2-b8c2-38dd85d9a3bb.svg)](https://wakatime.com/@506b29c1-2b87-45e2-b8c2-38dd85d9a3bb)
+I’m a student on the **Higher Diploma in Computer Science** at [SETU Waterford](https://www.setu.ie/courses/higher-diploma-in-computer-science-2-years-online), developing a strong foundation in software engineering and programming principles.
+I’m particularly interested in **clean code**, **data analysis**, and **AI technologies**.
 
-- I am currently a student on the HDip in Computer science at SETU - Waterford (https://www.setu.ie/courses/higher-diploma-in-computer-science-2-years-online)
-- I have completed the following courses online (see certificates directory)
-    - University of Helsinki - Java Programming 1 (https://java-programming.mooc.fi/)
-    - University of Helsinki - Java Programming 2 (https://java-programming.mooc.fi/)
-    - UDEMY (Python 3: Deep Dive (Part 1 - Functional) https://www.udemy.com/course/python-3-deep-dive-part-1/
-    - UDEMY (Python 3: Deep Dive (Part 2 - Iterators, Generators) https://www.udemy.com/course/python-3-deep-dive-part-2
-    - UDEMY (Python 3: Deep Dive (Part 3 - Dictionaries, Sets, JSON) https://www.udemy.com/course/python-3-deep-dive-part-3
-    - UDEMY (Build a data analysis library from scratch) https://www.udemy.com/course/build-a-data-analysis-library-from-scratch-in-python
-    - DeepLearning.AI/Coursera (Generative Adversarial Networks (GANs) Specialization) https://www.coursera.org/specializations/generative-adversarial-networks-gans
+---
+
+### 🎓 Education & Learning
+
+Alongside my formal studies, I’ve completed several online courses to deepen my understanding of core programming concepts and tools:
+
+* [University of Helsinki – Java Programming I & II](https://java-programming.mooc.fi/)
+* [Udemy – Python 3: Deep Dive (Parts 1–3)](https://www.udemy.com/user/fredbaptiste/)
+* [Udemy – Build a Data Analysis Library from Scratch](https://www.udemy.com/course/build-a-data-analysis-library-from-scratch-in-python)
+* [DeepLearning.AI / Coursera – Generative Adversarial Networks (GANs) Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans)
+
+You can find all certificates in the [`certificates/`](./certificates) directory.
+
+---
+
+### 🧠 Current Focus
+
+I’m currently improving my skills in:
+
+* Java application development
+* Python data sceince and machine learning workflows
+* Writing production-quality documentation and tests
+
+---
+
+### ⏱ WakaTime
+
+You can view my coding activity and learning progress through my [WakaTime profile](https://wakatime.com/@adammccarthycs) 
+
+
 
 <!--
 In the future I might add:
