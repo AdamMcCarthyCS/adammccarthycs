@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Adam McCarthy
 
 I’m a student on the **Higher Diploma in Computer Science** at [SETU Waterford](https://www.setu.ie/courses/higher-diploma-in-computer-science-2-years-online), developing a strong foundation in software engineering and programming principles.
-I’m particularly interested in **clean code**, **data analysis**, and **AI technologies**.
+I did my Undergraduate in [Maynooth University](https://www.maynoothuniversity.ie/https%3A//www.maynoothuniversity.ie/physics/mh201-mathematical-physics) I’m particularly interested in **clean code**, **data analysis**, and **AI technologies**.
 
 ---
 
