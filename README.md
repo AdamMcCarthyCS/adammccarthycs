@@ -29,11 +29,6 @@ I’m currently improving my skills in:
 
 ---
 
-### ⏱ WakaTime
-
-You can view my coding activity and learning progress through my [WakaTime profile](https://wakatime.com/@adammccarthycs) 
-
-
 
 <!--
 In the future I might add:
